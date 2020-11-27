@@ -1,2 +1,7 @@
 site_name: My Docs
+nav:
+    - Inicio: index.md
+    - Ciencia Ficción: https://es.wikipedia.org/wiki/Ciencia_ficci%C3%B3n
+    - Acción: https://es.wikipedia.org/wiki/G%C3%A9nero_de_acci%C3%B3n
+    - Comedia: https://es.wikipedia.org/wiki/Comedia
 theme: ivory
